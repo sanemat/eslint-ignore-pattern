@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "eslint": "~1.10.1"
+    "eslint": "~1.9.0"
   },
   "scripts": {
     "pattern:a": "eslint --ignore-pattern \"raise-{warning,foo}.js\" .",
